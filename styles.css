@@ -1,0 +1,23 @@
+.box-0 {
+  width: 3px;
+  height: 20px;
+  background-color: yellow;
+}
+
+.box-1 {
+  width: 20px;
+  height: 20px;
+  background-color: green;
+}
+
+.box-2 {
+  width: 40px;
+  height: 20px;
+  background-color: blueviolet;
+}
+
+.box-3 {
+  width: 60px;
+  height: 40px;
+  background-color: crimson;
+}
