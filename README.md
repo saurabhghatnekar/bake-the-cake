@@ -59,6 +59,6 @@ Use javascript to replicate the cakes. You cannot use any other external library
 
 ![15 Cake on a screen](/screenshots/table-view.jpg)
 
-### 7. Fifteen cakes on a screen (TABLET view)
+### 7. Fifteen cakes on a screen (MOBILE view)
 
 ![15 Cake on a screen](/screenshots/mobile-view-320.jpg)
