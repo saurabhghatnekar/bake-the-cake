@@ -2,7 +2,7 @@
 
 ## Objective
 
-It is a simple test to knowledge of using bootstrap along with flex to align the items around each other. Although bootstrap is not important to acheive this task. However, we have to use bootstrap class to get familiar with bootstrap classes.
+It is a simple test to check the knowledge of using bootstrap along with flex to align the items around each other. Although bootstrap is not important to acheive this task. However, we have to use bootstrap class to get familiar with bootstrap classes.
 
 ## What to do
 
@@ -17,6 +17,13 @@ Draw 15 cakes by following the given rules as stated below.
 5. The design is responsive and cakes moves to next line, if not enough space is available.
 6. The size of cake never changes w.r.t screen size.
 7. Carefully see the screenshots to see how the cakes behaviour if change the number of cakes and w.r.t screen size.
+
+## Design Elements
+
+1. use box-0 class for yellow candle
+2. use box-1 class for top layer of cake (green color)
+3. use box-2 class for middle layer of cake (blueviolet color)
+4. use box-3 class for bottom layer of cake (crimson color)
 
 ## Duration
 
