@@ -36,7 +36,7 @@ Use javascript to replicate the cakes. You cannot use any other external library
 ## Screenshots
 
 ### 1. One cake on a screen
-
+__ Ignore the white line. It's screenshot capture error. If you can't find the white line; just ignore this comment.  Nevermind. :) __
 ![1 Cake on a screen](/screenshots/1-on-a-screen.jpg)
 
 ### 2. Two cakes on a screen
